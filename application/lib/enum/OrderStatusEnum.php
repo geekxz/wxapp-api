@@ -1,11 +1,10 @@
 <?php
 /**
- * Created by 七月
- * Author: 七月
- * 微信公号: 小楼昨夜又秋风
- * 知乎ID: 七月在夏天
- * Date: 2017/3/7
- * Time: 16:10
+ * Created by 陈东东
+ * User: 陈东东
+ * 微信公号: 极客小寨工作室
+ * Date: 2019/4/15
+ * Time: 22:40
  */
 
 namespace app\lib\enum;
